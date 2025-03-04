@@ -15,7 +15,14 @@ I'm developing a **private project** using **React and C#**.
 🔗 [Live Demo](http://systematyczny01-001-site1.otempurl.com/)  
 🛠 **Login Credentials:**  
 - **Username:** `przyklad@gmail.com`  
-- **Password:** `Przyklad1.`  
+- **Password:** `Przyklad1.`
+
+🎯 **Hobbies:**  
+📚 **Books:** [My Lubimy Czytać Profile](https://lubimyczytac.pl/profil/87335/Dariusz)  
+🎲 **Board Games**  
+🎮 **Video Games**  
+📈 **Personal Development**  
+🚴 **Cycling**  
 
 🔗 **Connect with me:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dariusz-filar/)  
