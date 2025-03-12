@@ -12,8 +12,24 @@ I'm **Darek** from Rzeszów, Poland. I love programming and constantly strive to
 I'm developing a **private project** using **React and C#**.  
 📆 **Started on:** February 24, 2024  
 📈 **The project is being expanded daily with new features.**  
-🔗 **My project has a hosted API with Swagger**:  
-- 🌐 **API Endpoint:** [LINK](https://commandcenter-production-8949.up.railway.app/swagger/index.html)  
+
+🌐 **Project Details:**  
+- **API is hosted on Railway.app** – a cloud-based platform for easy deployments.  
+- **Custom .NET 8 setup using Docker** – Railway.app supports only .NET 6 by default, so I configured my project using **Docker** to run on **.NET 8**.  
+- **Swagger is implemented** for easy API documentation and testing.  
+- **Database is hosted on FreeASPHosting.net** – providing free SQL Server hosting.  
+- **Continuous Delivery (CD)** is implemented, ensuring automatic deployment of new changes.  
+- **Unit Testing** is implemented using **xUnit**.  
+
+### **Design patterns used:**  
+- **Repository Pattern** → `UserRepository`, `ManagerRepository`
+- **Mediator Pattern** → `Handler`
+- **Factory Pattern** → `ManagerRepository`
+- **Logger Pattern (or Observer Pattern for event-driven logging)** → `Logger` (for logging to the `Logs` table)  
+- **Dependency Injection (DI)**
+
+🔗 **API Endpoint with Swagger:**  
+[![Swagger](https://img.shields.io/badge/API-Swagger-green?style=flat&logo=swagger)](https://commandcenter-production-8949.up.railway.app/swagger/index.html)  
 
 🌍 **Check out my first major MVC project:**  
 🔗 [Live Demo](http://systematyczny01-001-site1.otempurl.com/)  
