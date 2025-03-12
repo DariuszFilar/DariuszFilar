@@ -24,7 +24,7 @@ I'm developing a **private project** using **React and C#**.
 ### **Design patterns used:**  
 - **Repository Pattern**
 - **Mediator Pattern**
-- **Logger Pattern (or Observer Pattern for event-driven logging)** → `Logger` (for logging to the `Logs` table)  
+- **Logger Pattern**  
 - **Dependency Injection (DI)**
 
 🔗 **API Endpoint with Swagger:**  
