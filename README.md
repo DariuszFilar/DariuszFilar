@@ -22,9 +22,8 @@ I'm developing a **private project** using **React and C#**.
 - **Unit Testing** is implemented using **xUnit**.  
 
 ### **Design patterns used:**  
-- **Repository Pattern** → `UserRepository`, `ManagerRepository`
-- **Mediator Pattern** → `Handler`
-- **Factory Pattern** → `ManagerRepository`
+- **Repository Pattern**
+- **Mediator Pattern**
 - **Logger Pattern (or Observer Pattern for event-driven logging)** → `Logger` (for logging to the `Logs` table)  
 - **Dependency Injection (DI)**
 
